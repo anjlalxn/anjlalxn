@@ -1,4 +1,5 @@
-# !! crimsoncrows github!!
+# !! anjlalxn github!!
+
 
 ### what's in my profile
 
@@ -14,7 +15,7 @@
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/groq-icon.png" alt="ai" width="30"/>
 </div>
 
-### works in progress
+### works in progress @ crimsoncrows
 
 ![cryptica](https://img.shields.io/badge/cryptica-39FF14?style=for-the-badge&color=39FF14&labelColor=39FF14)
 a mailbox for your thoughts. write anonymously or compose with an alias. inspired by the unsent project.
@@ -29,3 +30,7 @@ a capstone group project. thesis and capstone research repository featuring AI a
 a chat app powered by the Groq API, with response regeneration, context and memory, rate limit handling, and an image generation sub-feature (PochiJPG) via Hugging Face. Development paused for now.
 
 ### !! im more of a multimedia and ui/ux person. i code when i feel like it !!
+this is my github student account. official school works only. follow me @crimsoncrows for my personal works
+
+
+
