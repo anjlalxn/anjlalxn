@@ -3,8 +3,6 @@
 
 ### what's in my profile
 
-![Languages & Tools](https://img.shields.io/badge/Languages%20%26%20Tools-39FF14?style=for-the-badge&labelColor=39FF14&color=000000)
-
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="language" width="50"/>
 <img src="https://static.wixstatic.com/media/0d04aa_042267041d50470281e3c628c7373130~mv2.png/v1/fill/w_588,h_366,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0d04aa_042267041d50470281e3c628c7373130~mv2.png" alt="top3web" width="100"/>
