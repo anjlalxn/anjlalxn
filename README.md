@@ -1,7 +1,7 @@
 # !! anjlalxn github !!
 
 
-### what's in my profile
+### tools n tech
 
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="language" width="50"/>
@@ -9,8 +9,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png" alt="language" width="30"/>
 <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="language" width="60"/>
 <img src="https://static.vecteezy.com/system/resources/thumbnails/048/332/150/small_2x/java-programming-language-java-logo-free-png.png" alt="language" width="60"/>
-<img src="https://miro.medium.com/v2/0*15DSec-aTqI80FZx.png" alt="ml" width="130"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/groq-icon.png" alt="ai" width="30"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/huggingface-icon.png" alt="ml" width="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-mGuxuS5uuQEVL-MfGH9BJtInDpIANNEvwhAO0fidbH156VlaeivieZ60LESMuyavp8Mik-24JjulL6ZZusHrVSVt0pJkQKTwHa4j&s&ec=121924568" alt="ai" width="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrcf9OcDIC-FoGNgUIkIizIEprMWcQcPpWki3IljMQlDIOcaqRkrogNMw&s=10" alt="db" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/69240164?s=280&v=4" alt="db" width="50"/>
 </div>
 
 ### works in progress @ crimsoncrows
@@ -26,6 +28,17 @@ a capstone group project. thesis and capstone research repository featuring AI a
 
 ![PochiAI](https://img.shields.io/badge/PochiAI-39FF14?style=for-the-badge&color=B22222&labelColor=39FF14)
 a chat app powered by the Groq API, with response regeneration, context and memory, rate limit handling, and an image generation sub-feature (PochiJPG) via Hugging Face. Development paused for now.
+
+
+### recently focused on
+![SBERT](https://img.shields.io/badge/SBERT-39FF14?style=for-the-badge&color=B22222&labelColor=39FF14)
+sentence embeddings for semantic search/similarity
+
+![PHP](https://img.shields.io/badge/PHP-39FF14?style=for-the-badge&color=B22222&labelColor=39FF14)
+basics and other stuff
+
+![Django](https://img.shields.io/badge/Django-39FF14?style=for-the-badge&color=B22222&labelColor=39FF14)
+highest priority for capstone development
 
 ### !! im more of a multimedia and ui/ux person. i code when i feel like it !!
 this is my github student account. official school works only. follow me @crimsoncrows for my personal works
