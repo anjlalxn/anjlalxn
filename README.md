@@ -15,21 +15,6 @@
 <img src="https://avatars.githubusercontent.com/u/69240164?s=280&v=4" alt="db" width="50"/>
 </div>
 
-### works in progress @ crimsoncrows
-
-![cryptica](https://img.shields.io/badge/cryptica-39FF14?style=for-the-badge&color=B22222&labelColor=39FF14)
-a mailbox for your thoughts. write anonymously or compose with an alias. inspired by the unsent project.
-
-![semantically](https://img.shields.io/badge/semantically-39FF14?style=for-the-badge&color=B22222&labelColor=39FF14)
-A Semantle-style word guessing game where SBERT embeddings score how semantically close your guess is to a randomly chosen target word. Django development soon.
-
-![archeion](https://img.shields.io/badge/archeion-39FF14?style=for-the-badge&color=B22222&labelColor=39FF14)
-a capstone group project. thesis and capstone research repository featuring AI and SBERT-based semantic similarity detection to flag duplicate or closely related research.
-
-![PochiAI](https://img.shields.io/badge/PochiAI-39FF14?style=for-the-badge&color=B22222&labelColor=39FF14)
-a chat app powered by the Groq API, with response regeneration, context and memory, rate limit handling, and an image generation sub-feature (PochiJPG) via Hugging Face. Development paused for now.
-
-
 ### recently focused on
 ![SBERT](https://img.shields.io/badge/SBERT-39FF14?style=for-the-badge&color=B22222&labelColor=39FF14)
 sentence embeddings for semantic search/similarity
