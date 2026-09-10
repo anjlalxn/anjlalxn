@@ -17,7 +17,7 @@
 
 ## Latest Programming Work
 
-# Supernatural (still a little buggy, in debugging process)
+#Player vs. Bot with RNG Entity Generation: Supernatural (still a little buggy, in debugging process)
 
 A PHP practice project — an OOP battle simulator where predator creatures (Vampire, Werewolf, Fiend, Netherlord) face off against guardian/prey types (Angel, Seraphim) in a turn-based encounter with a human "Prey" NPC caught in the middle.
 
